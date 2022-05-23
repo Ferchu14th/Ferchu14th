@@ -1,13 +1,13 @@
-### ![image](https://user-images.githubusercontent.com/105743673/169916277-84293456-f587-4be3-a2ad-9a8e643f1047.png)
- 👋
+### Hi, welcome to my workspace! 👋
+https://youtu.be/mC3zZYj41Ho?list=PLEPDmMs2o9w6JOYe86ntxNc9JW-FYckyl
 
 <!--
 **Ferchu14th/Ferchu14th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+- 🔭 I’m currently working on Lumen Technologies
+- 🌱 I’m currently learning JS, Node, and others
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
